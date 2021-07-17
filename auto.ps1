@@ -5,5 +5,5 @@ while($true)
     git add .;
     git commit -m "$date" -q
     git push -q
-    start-sleep -seconds 60;
+    start-sleep -seconds 58;
 }
