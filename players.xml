@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <persistentplayerdata>
 	<player id="76561198439896017" lastlogin="2021-07-17 17:33:48">
-		<bedroll pos="-1082,73,433"/>
+		<acl id="76561198993607423"/>
+		<bedroll pos="572,61,325"/>
 	</player>
-	<player id="76561198993607423" lastlogin="2021-07-17 17:34:06"/>
+	<player id="76561198993607423" lastlogin="2021-07-17 17:34:06">
+		<acl id="76561198439896017"/>
+	</player>
 </persistentplayerdata>
